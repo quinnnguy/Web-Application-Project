@@ -1,0 +1,743 @@
+[
+  {
+    "Name": "Rafail  Abramov",
+    "Email": "abramov@uic.edu",
+    "Office Hours": "12:00 Mon/Wed (in person), 11:00 Tue/Thu (Zoom)",
+    "Teaching Schedules": [
+      "MATH 210    MWF 10:00:00-10:50:00    TH 305",
+      "MATH 210    MWF 11:00:00-11:50:00    LH 120"
+    ]
+  },
+  {
+    "Name": "Danko  Adrovic",
+    "Email": "dadrov1@uic.edu",
+    "Office Hours": "Monday and Wednesday 12 PM 1:40 PM.",
+    "Teaching Schedules": [
+      "MCS 320    MWF 13:00:00-13:50:00    SELE 2249F",
+      "MCS 360    MWF 10:00:00-10:50:00    LCA A002"
+    ]
+  },
+  {
+    "Name": "Will  Ash",
+    "Email": "wash@uic.edu",
+    "Office Hours": "Monday Wednesday 1:30 - 2:30pm and Tuesday 2:00 - 3:00pm in MSLC",
+    "Teaching Schedules": [
+      "MATH 180    MWF 08:00:00-08:50:00    SES 201",
+      "MATH 180    MWF 16:00:00-16:50:00    ARC 242",
+      "MATH 210    MWF 15:00:00-15:50:00    LH 115"
+    ]
+  },
+  {
+    "Name": "Gerard  Awanou",
+    "Email": "awanou@uic.edu",
+    "Office Hours": "M and W 11:15 am - 12:05 pm or by appointments",
+    "Teaching Schedules": [
+      "MATH 210    MWF 09:00:00-09:50:00    LH 115",
+      "MCS 471    MWF 10:00:00-10:50:00    AH 306"
+    ]
+  },
+  {
+    "Name": "Ben  Bakker",
+    "Email": "bakker@uic.edu",
+    "Office Hours": "F 12-1, 2-3",
+    "Teaching Schedules": [
+      "MATH 215    MWF 13:00:00-13:50:00    AH 311",
+      "MATH 215    MWF 11:00:00-11:50:00    AH 311"
+    ]
+  },
+  {
+    "Name": "Richard A. P.  Birkett",
+    "Email": "rbirkett@uic.edu",
+    "Office Hours": "MTh 4:00-5:00",
+    "Teaching Schedules": [
+      "MATH 210    MWF 09:00:00-09:50:00    LH 107",
+      "MATH 210    MWF 11:00:00-11:50:00    BSB 365"
+    ]
+  },
+  {
+    "Name": "Martina  Bode",
+    "Email": "bodem@uic.edu",
+    "Office Hours": "Mo 9-10 virtual, Fridays 1-2pm (MSLC)",
+    "Teaching Schedules": [
+      "MATH 181    MWF 15:00:00-15:50:00    ARC 242",
+      "MATH 181    MWF 08:00:00-08:50:00    LCD D005"
+    ]
+  },
+  {
+    "Name": "Jerry  Bona",
+    "Email": "jbona@uic.edu",
+    "Office Hours": "Monday and Wednesday, 11:30 to 12:30, or by appointment.  (You are welcome to drop by anytime.)",
+    "Teaching Schedules": [
+      "MATH 210    MWF 15:00:00-15:50:00    TH 304",
+      "MATH 585    MWF 14:00:00-14:50:00    TH 215"
+    ]
+  },
+  {
+    "Name": "Tabes  Bridges",
+    "Email": "mbridg5@uic.edu",
+    "Office Hours": "Monday 2-2:50 (MSLC); Wednesday 2-2:50 (SEO 309)",
+    "Teaching Schedules": [
+      "MATH 165    MWF 15:00:00-15:50:00    LCF F001",
+      "MATH 181    MWF 17:00:00-17:50:00    LCF F003",
+      "MATH 181    MWF 16:00:00-16:50:00    LCF F006"
+    ]
+  },
+  {
+    "Name": "Benjamin  Call",
+    "Email": "bcall@uic.edu",
+    "Office Hours": "N/A",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Andrea  Carter",
+    "Email": "acarter0@uic.edu",
+    "Office Hours": "Fridays 9 - 11 am, MSLC ",
+    "Teaching Schedules": [
+      "MATH 160    MWF 08:00:00-08:50:00    ARC 241"
+    ]
+  },
+  {
+    "Name": "Alison  Castro Superfine",
+    "Email": "amcastro@uic.edu",
+    "Office Hours": "By appointment ",
+    "Teaching Schedules": [
+      "MATH 140    TR 09:00:00-10:50:00    SEO 600",
+      "MTHT 465    T 17:00:00-20:00:00"
+    ]
+  },
+  {
+    "Name": "Alina Carmen  Cojocaru",
+    "Email": "cojocaru@uic.edu",
+    "Office Hours": "MATH 599: M 9-9:50, M 10-10:50; MATH 435, MATH 514: M 1-2:30 ",
+    "Teaching Schedules": [
+      "MATH 435    MWF 12:00:00-12:50:00    AH 310",
+      "MATH 514    MWF 11:00:00-11:50:00    LH 215"
+    ]
+  },
+  {
+    "Name": "Izzet  Coskun",
+    "Email": "icoskun@uic.edu",
+    "Office Hours": "MW 1-2",
+    "Teaching Schedules": [
+      "MATH 552    MWF 12:00:00-12:50:00    LH 201",
+      "MATH 571    MWF 14:00:00-14:50:00    LH 115"
+    ]
+  },
+  {
+    "Name": "Mimi  Dai",
+    "Email": "mdai@uic.edu",
+    "Office Hours": "Friday: 4-6pm",
+    "Teaching Schedules": [
+      "MATH 125    MWF 15:00:00-15:50:00    LCF F004",
+      "MATH 125    MWF 14:00:00-14:50:00    LCA A001",
+      "MATH 533    MWF 13:00:00-13:50:00    AH 302"
+    ]
+  },
+  {
+    "Name": "Shavila  Devi",
+    "Email": "sdevi@uic.edu",
+    "Office Hours": "Monday & Friday 1:00-2:00 (SEO 726)",
+    "Teaching Schedules": [
+      "MATH 125    MWF 11:00:00-11:50:00    LCF F004",
+      "MATH 125    MWF 09:00:00-09:50:00    LCF F006",
+      "MATH 310    MWF 12:00:00-12:50:00    LCD D004"
+    ]
+  },
+  {
+    "Name": "Vi  Diep",
+    "Email": "vdiep3@uic.edu",
+    "Office Hours": "MW 9:30-10:30AM (SEO 631) or by appointment",
+    "Teaching Schedules": [
+      "MATH 180    MWF 13:00:00-13:50:00    SES 201",
+      "MATH 180    MWF 14:00:00-14:50:00    SES 201",
+      "MATH 180    MWF 11:00:00-11:50:00    ARC 242"
+    ]
+  },
+  {
+    "Name": "Fred  Drueck",
+    "Email": "fdruec1@uic.edu",
+    "Office Hours": "2pm-5pm",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Fred  Drueck",
+    "Email": "fdruec1@uic.edu",
+    "Office Hours": "2pm-5pm",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "David  Dumas",
+    "Email": "ddumas@uic.edu",
+    "Office Hours": "Wed 11am and Fri 12pm",
+    "Teaching Schedules": [
+      "MATH 547    MWF 14:00:00-14:50:00    LH 107"
+    ]
+  },
+  {
+    "Name": "Lawrence  Ein",
+    "Email": "ein@uic.edu",
+    "Office Hours": "W F 2-3",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Dale  Embers",
+    "Email": "dembers@uic.edu",
+    "Office Hours": "MW 1-2, F 1:30-2:30",
+    "Teaching Schedules": [
+      "STAT 130    MWF 11:00:00-11:50:00    LCD D001",
+      "STAT 382    MWF 12:00:00-12:50:00    LH 210",
+      "STAT 475    MWF 15:00:00-15:50:00    AH 307"
+    ]
+  },
+  {
+    "Name": "James  Freitag",
+    "Email": "jfreitag@uic.edu",
+    "Office Hours": "Monday 10-11, Tuesday 1-2, on Zoom by appointment",
+    "Teaching Schedules": [
+      "MATH 506    MWF 09:00:00-09:50:00    LH 215"
+    ]
+  },
+  {
+    "Name": "Alexander  Furman",
+    "Email": "furman@uic.edu",
+    "Office Hours": "Mon Fri 1:30-2:30pm or by appointment",
+    "Teaching Schedules": [
+      "MATH 215    MWF 11:00:00-11:50:00    BH 304",
+      "MATH 313    MWF 12:00:00-12:50:00    TH 312"
+    ]
+  },
+  {
+    "Name": "Michael  Greenblatt",
+    "Email": "greenbla@uic.edu",
+    "Office Hours": "2-2:50 MW in SEO 528",
+    "Teaching Schedules": [
+      "MATH 210    MWF 13:00:00-13:50:00    LH 206",
+      "MATH 417    MWF 11:00:00-11:50:00    TH 204"
+    ]
+  },
+  {
+    "Name": "Daniel  Groves",
+    "Email": "dgroves@uic.edu",
+    "Office Hours": "On sabbatical - by appointment",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Kyunghee  Han",
+    "Email": "hankh@uic.edu",
+    "Office Hours": "MF 3:00PM-3:50PM",
+    "Teaching Schedules": [
+      "STAT 512    MWF 14:00:00-14:50:00    LH 202"
+    ]
+  },
+  {
+    "Name": "Matthew  Harrison-Trainor",
+    "Email": "mht@uic.edu",
+    "Office Hours": null,
+    "Teaching Schedules": [
+      "MATH 210    MWF 14:00:00-14:50:00    BH 304",
+      "MATH 210    MWF 12:00:00-12:50:00    LH 101"
+    ]
+  },
+  {
+    "Name": "Daniel  Ingebretson",
+    "Email": "dingeb2@uic.edu",
+    "Office Hours": "Wed 1-2pm, Fri 2-3pm",
+    "Teaching Schedules": [
+      "MATH 090    MWF 08:00:00-08:50:00    AH 306",
+      "MATH 090    MWF 10:00:00-10:50:00    TH 204",
+      "MATH 090    MWF 09:00:00-09:50:00    AH 307",
+      "MATH 090    MWF 11:00:00-11:50:00    AH 306"
+    ]
+  },
+  {
+    "Name": "Billy  Jackson",
+    "Email": "bjjack06@uic.edu",
+    "Office Hours": "TR 10:30 am- 12:00 pm",
+    "Teaching Schedules": [
+      "MATH 090    MWF 12:00:00-12:50:00    AH 307",
+      "MATH 121    MWF 10:00:00-10:50:00    LCD D004"
+    ]
+  },
+  {
+    "Name": "Vishesh  Jain",
+    "Email": "visheshj@uic.edu",
+    "Office Hours": null,
+    "Teaching Schedules": [
+      "MCS 423    MWF 11:00:00-11:50:00    TH 208",
+      "MCS 521    MWF 13:00:00-13:50:00    AH 307"
+    ]
+  },
+  {
+    "Name": "Nathan  Jones",
+    "Email": "ncjones@uic.edu",
+    "Office Hours": "Wed 10:00-11:00 am and Fri 9:00-10:00 am in SEO 340, or by appointment",
+    "Teaching Schedules": [
+      "MATH 525    MWF 14:00:00-14:50:00    TH 312",
+      "MCS 425    MWF 12:00:00-12:50:00    TH 208"
+    ]
+  },
+  {
+    "Name": "Eric  Jovinelly",
+    "Email": "ejovinel@uic.edu",
+    "Office Hours": null,
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Olga  Kashcheyeva",
+    "Email": "kolga@uic.edu",
+    "Office Hours": "M 1-21:50pm, W 10:30-11:30am",
+    "Teaching Schedules": [
+      "MATH 215    MWF 12:00:00-12:50:00    AH 311",
+      "MATH 215    MWF 14:00:00-14:50:00    AH 311"
+    ]
+  },
+  {
+    "Name": "Osama  Khalil",
+    "Email": "okhalil@uic.edu",
+    "Office Hours": "MW 1-2pm or by appointment",
+    "Teaching Schedules": [
+      "MATH 210    MWF 10:00:00-10:50:00    LH 107",
+      "MATH 590    MWF 09:00:00-09:50:00    TH 305"
+    ]
+  },
+  {
+    "Name": "Evangelos  Kobotis",
+    "Email": "evangelo@uic.edu",
+    "Office Hours": "MW 11-11:50 AM or by appointment",
+    "Teaching Schedules": [
+      "MATH 170    MWF 10:00:00-10:50:00    LCD D005",
+      "MATH 210    MWF 08:00:00-08:50:00    LCD D001"
+    ]
+  },
+  {
+    "Name": "Anita  Kursell",
+    "Email": "akurse2@uic.edu",
+    "Office Hours": "Thurs: 9am-1050am via Zoom",
+    "Teaching Schedules": [
+      "MATH 121    MWF 16:00:00-16:50:00    LCD D005",
+      "STAT 101    MWF 14:00:00-14:50:00    LCF F006",
+      "STAT 101    MWF 12:00:00-12:50:00    LCF F006"
+    ]
+  },
+  {
+    "Name": "Alexa  Lee-Hassan",
+    "Email": "aleeha2@uic.edu",
+    "Office Hours": "Monday 11-12, Thursday 1-2, Friday 1-1:30",
+    "Teaching Schedules": [
+      "MATH 140    TR 11:00:00-12:50:00    SEO 600",
+      "MATH 140    WF 11:00:00-12:50:00    SEO 600",
+      "MATH 141    MW 09:00:00-10:50:00    SEO 600"
+    ]
+  },
+  {
+    "Name": "Nicole  Looper",
+    "Email": "nrlooper@uic.edu",
+    "Office Hours": "Tu 10-11:30am, F 3-4:30pm",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Shiji  Lyu",
+    "Email": "slyu@uic.edu",
+    "Office Hours": "MW 4pm - 5pm, SEO 616",
+    "Teaching Schedules": [
+      "MATH 210    MWF 14:00:00-14:50:00    TH 305",
+      "MATH 210    MWF 13:00:00-13:50:00    BH 304"
+    ]
+  },
+  {
+    "Name": "Christopher  Mahadeo",
+    "Email": "cmahadeo@uic.edu",
+    "Office Hours": "T 1300 - 1400, R 1500 - 1600, or by appointment ",
+    "Teaching Schedules": [
+      "MATH 210    MWF 13:00:00-13:50:00    LH 202",
+      "MATH 210    MWF 16:00:00-16:50:00    BSB 335"
+    ]
+  },
+  {
+    "Name": "Dibyen  Majumdar",
+    "Email": "dibyen@uic.edu",
+    "Office Hours": "Tu & Th 2:15 \u0096 3:15 PM + by appointment",
+    "Teaching Schedules": [
+      "STAT 494    TR 15:30:00-16:45:00    TH 207"
+    ]
+  },
+  {
+    "Name": "Danny  Martin",
+    "Email": "dbmartin@uic.edu",
+    "Office Hours": "MW 1:00PM-2:00PM",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Mara  Martinez",
+    "Email": "maravmar@uic.edu",
+    "Office Hours": "Zoom by appointment",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Alycia  McNamara",
+    "Email": "alyciam@uic.edu",
+    "Office Hours": "MW 1:00-1:50PM (SEO319) or by appointment",
+    "Teaching Schedules": [
+      "MATH 090    MWF 11:00:00-11:50:00    AH 307",
+      "MATH 105    MWF 14:00:00-14:50:00    LCD D002",
+      "MATH 105    MWF 12:00:00-12:50:00    LCF F004"
+    ]
+  },
+  {
+    "Name": "McKinley  Meyer",
+    "Email": "mmeyer31@uic.edu",
+    "Office Hours": "MW 5-6pm in the Math and Science Learning Center (3rd floor SES), Th 2-3 on Zoom, or by appt",
+    "Teaching Schedules": [
+      "MATH 160    MWF 12:00:00-12:50:00    ARC 241",
+      "MATH 180    MWF 13:00:00-13:50:00    ARC 241",
+      "MATH 180    MWF 15:00:00-15:50:00    SES 201",
+      "MATH 180    MWF 16:00:00-16:50:00    SES 201"
+    ]
+  },
+  {
+    "Name": "Marcus  Michelen",
+    "Email": "michelen@uic.edu",
+    "Office Hours": "W: 11-11:50, F:9-9:50",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Gwyneth  Moreland",
+    "Email": "gwynm@uic.edu",
+    "Office Hours": "M 4:30-5:30PM, W 4-5PM",
+    "Teaching Schedules": [
+      "MATH 210    MWF 14:00:00-14:50:00    LCA A007"
+    ]
+  },
+  {
+    "Name": "Dhruv  Mubayi",
+    "Email": "mubayi@uic.edu",
+    "Office Hours": "Sabbatical",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Scott  Mutchnik",
+    "Email": "mutchnik@uic.edu",
+    "Office Hours": null,
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Ronnie  Nagloo",
+    "Email": "jnagloo@uic.edu",
+    "Office Hours": "Monday and Friday 11am-12pm",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Irina  Nenciu",
+    "Email": "nenciu@uic.edu",
+    "Office Hours": "N/A",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Phi  Nguyen",
+    "Email": "pknguyen@uic.edu",
+    "Office Hours": null,
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "David  Nicholls",
+    "Email": "davidn@uic.edu",
+    "Office Hours": "Mon and Wed 1-2 (210); Wed 2-3 (480)",
+    "Teaching Schedules": [
+      "MATH 210    MWF 10:00:00-10:50:00    TH 304",
+      "MATH 480    MWF 09:00:00-09:50:00    BH 304"
+    ]
+  },
+  {
+    "Name": "Cheng  Ouyang",
+    "Email": "couyang@uic.edu",
+    "Office Hours": "Monday, Friday 10-11am",
+    "Teaching Schedules": [
+      "STAT 401    MWF 09:00:00-09:50:00    LCA A002",
+      "STAT 501    MWF 11:00:00-11:50:00    LH 300"
+    ]
+  },
+  {
+    "Name": "Jennifer  Pajda-De La O",
+    "Email": "jpajda2@uic.edu",
+    "Office Hours": "Online (Zoom) Tuesday 10-11am; In Person Wednesday / Friday 12:30-1:30pm",
+    "Teaching Schedules": [
+      "STAT 381    MWF 08:00:00-08:50:00    LCF F003",
+      "STAT 382    MWF 11:00:00-11:50:00    TH 207",
+      "STAT 473    MWF 09:00:00-09:50:00    TH 204"
+    ]
+  },
+  {
+    "Name": "Shokouh  Pourarian",
+    "Email": "sharian@uic.edu",
+    "Office Hours": "Monday12-12:45 pm in MSLC & Wednesday 12-12:45 pm in SEO 313 or Online",
+    "Teaching Schedules": [
+      "MATH 110    MWF 10:00:00-10:50:00    LCF F004",
+      "MATH 110    MWF 09:00:00-09:50:00    LCF F004",
+      "MATH 110    MWF 11:00:00-11:50:00    LCF F003"
+    ]
+  },
+  {
+    "Name": "Victor  Protsak",
+    "Email": "vp20@uic.edu",
+    "Office Hours": "M 11:00 \u0096 11:50 (SEO 608), W 1:00 \u0096 1:50 (MSLC), and by appointment ",
+    "Teaching Schedules": [
+      "MATH 181    MWF 09:00:00-09:50:00    LCD D005",
+      "MATH 220    MWF 10:00:00-10:50:00    LCF F006",
+      "MATH 220    MWF 12:00:00-12:50:00    LCD D005"
+    ]
+  },
+  {
+    "Name": "Lev  Reyzin",
+    "Email": "lreyzin@uic.edu",
+    "Office Hours": "T 11:00-11:50 (online), F 11:00-11:50 (in-person)",
+    "Teaching Schedules": [
+      "MCS 401    MWF 14:00:00-14:50:00    TBH 180F",
+      "MCS 549    MWF 12:00:00-12:50:00    BH 304"
+    ]
+  },
+  {
+    "Name": "Julius  Ross",
+    "Email": "juliusro@uic.edu",
+    "Office Hours": "Head Office Hours: Monday 4-5pm",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Frederick  Saia",
+    "Email": "fsaia@uic.edu",
+    "Office Hours": "MW 11:00 a.m. -- 12:00 p.m.",
+    "Teaching Schedules": [
+      "MATH 215    MWF 09:00:00-09:50:00    AH 310",
+      "MATH 215    MWF 10:00:00-10:50:00    AH 311"
+    ]
+  },
+  {
+    "Name": "Laura  Schaposnik",
+    "Email": "schapos@uic.edu",
+    "Office Hours": "Monday 11-12 and Wednesday 9-10 ",
+    "Teaching Schedules": [
+      "MATH 300    W 14:00:00-14:50:00    TH 219",
+      "MATH 300    M 14:00:00-14:50:00    TH 219",
+      "MATH 300    M 10:00:00-10:50:00    AH 302",
+      "MATH 300    W 10:00:00-10:50:00    AH 302"
+    ]
+  },
+  {
+    "Name": "Nolan  Schock",
+    "Email": "nschoc2@uic.edu",
+    "Office Hours": "MWF 12:00 PM-1:00 PM",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Erin  Schubert",
+    "Email": "eschub1@uic.edu",
+    "Office Hours": "Tuesdays 12:00pm - 2:00pm and by appointment",
+    "Teaching Schedules": [
+      "MTHT 400    T 14:00:00-16:50:00    SEO 600",
+      "MTHT 450    T 17:00:00-19:50:00    SEO 600",
+      "MTHT 467    M 17:00:00-19:50:00    SEO 600"
+    ]
+  },
+  {
+    "Name": "Brooke  Shipley",
+    "Email": "shipleyb@uic.edu",
+    "Office Hours": "12pm Tu/Th zoom; 4pm Wed in SEO 408; and by appointment via email",
+    "Teaching Schedules": [
+      "MATH 330    MWF 11:00:00-11:50:00    TH 313",
+      "MATH 589    MW 15:00:00-15:50:00    BH 308"
+    ]
+  },
+  {
+    "Name": "Andrew  Shulman",
+    "Email": "ashulm2@uic.edu",
+    "Office Hours": "Wednesdays and Fridays from 9-9:50am in SEO 537, or by appointment",
+    "Teaching Schedules": [
+      "MATH 165    MWF 08:00:00-08:50:00    LCF F001",
+      "MATH 165    MWF 11:00:00-11:50:00    LCF F006",
+      "MATH 165    MWF 13:00:00-13:50:00    LCF F003",
+      "MCS 260    MWF 10:00:00-10:50:00    ARC 240"
+    ]
+  },
+  {
+    "Name": "Roman  Shvydkoy",
+    "Email": "shvydkoy@uic.edu",
+    "Office Hours": "MW 12-13",
+    "Teaching Schedules": [
+      "MATH 210    MWF 14:00:00-14:50:00    SH 304",
+      "MATH 537    MWF 11:00:00-11:50:00    TH 309"
+    ]
+  },
+  {
+    "Name": "Gilberto  Simpson",
+    "Email": "gds1@uic.edu",
+    "Office Hours": "Monday: 5-6pm SEO 728 Tuesday 4-5pm Zoom Wednesday 5-6pm SEO 728 Thursday 4-5pm Zoom",
+    "Teaching Schedules": [
+      "MATH 121    MWF 12:00:00-12:50:00    LCF F001",
+      "MATH 121    MWF 09:00:00-09:50:00    LCD D004",
+      "MATH 121    MWF 11:00:00-11:50:00    LCF F001"
+    ]
+  },
+  {
+    "Name": "Christof  Sparber",
+    "Email": "sparber@uic.edu",
+    "Office Hours": "Monday 2 - 4 pm, or by appointment",
+    "Teaching Schedules": [
+      "MATH 313    MWF 10:00:00-10:50:00    TH 313",
+      "MATH 539    MWF 12:00:00-12:50:00    AH 302"
+    ]
+  },
+  {
+    "Name": "John  Steenbergen",
+    "Email": "jbergen@uic.edu",
+    "Office Hours": "M 10:00 AM - 10:50 AM and F 11:00 AM - 11:50 AM or by appointment at the MSLC",
+    "Teaching Schedules": [
+      "MATH 210    MWF 12:00:00-12:50:00    TH 304",
+      "MCS 260    MWF 14:00:00-14:50:00    BH B6",
+      "MCS 275    MWF 09:00:00-09:50:00    LH 312"
+    ]
+  },
+  {
+    "Name": "Charles  Stibitz",
+    "Email": "cstibitz@uic.edu",
+    "Office Hours": "Monday 10:00 -11:00 am (MSLC), Tuesday 1:00 -2:00 pm (Zoom), Wednesday 10:00 - 11:00 am (MSLC)",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Nicholas  Switala",
+    "Email": "nswitala@uic.edu",
+    "Office Hours": "1:00-2:00 Mon/Wed in SEO 1217",
+    "Teaching Schedules": [
+      "MATH 180    MWF 09:00:00-09:50:00    SES 201",
+      "MATH 180    MWF 10:00:00-10:50:00    SES 201",
+      "MATH 310    MWF 14:00:00-14:50:00    LCF F004"
+    ]
+  },
+  {
+    "Name": "Ramin  Takloo-Bighash",
+    "Email": "rtakloo@uic.edu",
+    "Office Hours": "MW 12:30-13:45, UH Port Cafe",
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Gregory  Taylor",
+    "Email": "gtaylo9@uic.edu",
+    "Office Hours": "MW 11am - 12pm in SEO 1217",
+    "Teaching Schedules": [
+      "MATH 110    MWF 14:00:00-14:50:00    SES 230",
+      "MATH 110    MWF 08:00:00-08:50:00    LCD D004",
+      "MATH 110    MWF 11:00:00-11:50:00    BSB 140",
+      "MATH 210    MWF 09:00:00-09:50:00    BH B10"
+    ]
+  },
+  {
+    "Name": "Kevin  Tucker",
+    "Email": "kftucker@uic.edu",
+    "Office Hours": "Monday 2-3; Wednesday 1-2",
+    "Teaching Schedules": [
+      "MATH 320    MWF 09:00:00-09:50:00    TH 309",
+      "MATH 516    MWF 10:00:00-10:50:00    TH 309"
+    ]
+  },
+  {
+    "Name": "Gyorgy  Turan",
+    "Email": "gyt@uic.edu",
+    "Office Hours": null,
+    "Teaching Schedules": null
+  },
+  {
+    "Name": "Wouter  Van Limbeek",
+    "Email": "wouter@uic.edu",
+    "Office Hours": "M 5-6 (Math 445), W 5-6 (Math 215)",
+    "Teaching Schedules": [
+      "MATH 215    MWF 16:00:00-16:50:00    AH 307",
+      "MATH 445    MWF 14:00:00-14:50:00    LH 101"
+    ]
+  },
+  {
+    "Name": "Jan  Verschelde",
+    "Email": "janv@uic.edu",
+    "Office Hours": "at noon on Mondays, Wednesdays, and Fridays; or by appointment",
+    "Teaching Schedules": [
+      "MCS 481    MWF 09:00:00-09:50:00    LH 304",
+      "MCS 507    MWF 11:00:00-11:50:00    LH 206"
+    ]
+  },
+  {
+    "Name": "Liet  Vo",
+    "Email": "lietvo@uic.edu",
+    "Office Hours": "MW 11 AM - 12 PM at SEO 416",
+    "Teaching Schedules": [
+      "MATH 310    MWF 10:00:00-10:50:00    SES 130",
+      "MATH 310    MWF 08:00:00-08:50:00    LCF F006"
+    ]
+  },
+  {
+    "Name": "Jing  Wang",
+    "Email": "jiwang12@uic.edu",
+    "Office Hours": "11am-12pm, on MWFs",
+    "Teaching Schedules": [
+      "STAT 521    MWF 10:00:00-10:50:00    BH 316"
+    ]
+  },
+  {
+    "Name": "Kevin  Whyte",
+    "Email": "kwhyte@uic.edu",
+    "Office Hours": "W 12-1(in person), Th 4-5(Zoom), and by appt",
+    "Teaching Schedules": [
+      "MATH 551    MWF 11:00:00-11:50:00    TH 300"
+    ]
+  },
+  {
+    "Name": "Anthony  Woldeit",
+    "Email": "woldeit1@uic.edu",
+    "Office Hours": "W/F 1:00-1:50 in SEO 317 and by appointment",
+    "Teaching Schedules": [
+      "MATH 090    MWF 12:00:00-12:50:00    AH 306",
+      "MATH 090    MWF 14:00:00-14:50:00    AH 306",
+      "MATH 090    MWF 15:00:00-15:50:00    AH 306",
+      "MATH 090    MWF 11:00:00-11:50:00    AH 302",
+      "MATH 090    MWF 16:00:00-16:50:00    ARC 240"
+    ]
+  },
+  {
+    "Name": "Yichao  Wu",
+    "Email": "yichaowu@uic.edu",
+    "Office Hours": "by appointment",
+    "Teaching Schedules": [
+      "STAT 591    MWF 13:00:00-13:50:00    LH 300"
+    ]
+  },
+  {
+    "Name": "Jie  Yang",
+    "Email": "jyang06@uic.edu",
+    "Office Hours": "[DGS] MWF 9AM-10AM; [Teaching] MWF 11AM-12PM at UIC Zoom",
+    "Teaching Schedules": [
+      "STAT 411    MWF 10:00:00-10:50:00    LCA A003"
+    ]
+  },
+  {
+    "Name": "Min  Yang",
+    "Email": "myang2@uic.edu",
+    "Office Hours": "2:00pm-2:50pm, M, W, F",
+    "Teaching Schedules": [
+      "STAT 381    MWF 12:00:00-12:50:00    LCE E101",
+      "STAT 481    MWF 11:00:00-11:50:00    LH 312"
+    ]
+  },
+  {
+    "Name": "Wenliang  Zhang",
+    "Email": "wlzhang@uic.edu",
+    "Office Hours": "2-2:50pm on Wednesdays and Fridays",
+    "Teaching Schedules": [
+      "MATH 215    MWF 10:00:00-10:50:00    SH 115",
+      "MATH 520    MWF 13:00:00-13:50:00    TH 305"
+    ]
+  },
+  {
+    "Name": "Ping-Shou  Zhong",
+    "Email": "pszhong@uic.edu",
+    "Office Hours": "Friday 11am-1pm",
+    "Teaching Schedules": [
+      "STAT 385    MWF 14:00:00-14:50:00    TH 207"
+    ]
+  }
+]

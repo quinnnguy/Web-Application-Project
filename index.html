@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MSCS Faculty Search</title>
+</head>
+<h1> MSCS Faculty Search </h1>
+<body>
+  <form method="POST">
+    <input type="text" name="user_input" placeholder="Enter the information" required/>
+    <input type="submit" value="Search"/>
+    <p>
+      <label for="search_type">Search Type:</label>
+      <input type="radio" id="search_name" name="search_type" value="name" checked/> Faculty Name
+      <input type="radio" id="search_course" name="search_type" value="course"/> Course Name
+    <br>
+    </p>
+    
+    
+      
+  </form>
+  <div class = "results_display">
+    {% if user_input %}                                                         <!--Check this to avoid no result display when load this website the first time-->
+      <hr>
+      {% if faculties|length %}                                                 <!--Check the size of faculties list to determine the number of results-->
+        <h2>Results for "{{ user_input }}"</h2>
+        {% if search_type == 'name' %}                                          <!--When the search type is name-->
+          {% for faculty in faculties %}                                        <!--Iterate through faculties list-->
+            <div>Name: {{ faculty["Name"] }}</div>                              <!--Access value of a dictionary with key "Name"-->
+            <div>Email: {{ faculty["Email"] }}</div>                            <!--Access value of a dictionary with key "Email"-->
+            <div>Office hours: {{ faculty["Office Hours"] }}</div>              <!--Access value of a dictionary with key "Office Hours"-->
+            <hr>
+          {% endfor %}
+        {% else %}                                                              <!--When the search type is course-->
+          <ul>
+            {% for faculty in faculties %}                                      <!--Iterate through faculties list-->
+            <li>Name: {{ faculty["Name"] }}</li>                                <!--Access value of a dictionary with key "Name"-->
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% else %}                                                                <!--This else statement is executed when the size of falculties is zero (no results found) -->
+        <h2>No results found for "{{ user_input }}"</h2>                        <!--This message is displayed when there is no result which matches the user input-->
+      {% endif %}
+    {% endif %}
+  </div>
+
+</body>
+
+</html>
